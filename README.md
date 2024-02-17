@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left">My name is Rayen ben brahim, a dedicated self-learner in computer science currently studying electrical engineering at ISET Bizerte, Tunisia. I aspire to become a polymath, mastering a wide range of sciences, including math, technology, physics, biology, chemistry, and more.</p>
+
 - 🔭 I’m currently working on [Affari e-commerce startup](Https://rayweblistapi.000webhostapp.com)
 
 - 🌱 I’m currently learning **Electrical engineering & artificial intelligence**
